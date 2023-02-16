@@ -1,7 +1,7 @@
 TgCrypto
 pyrogram==2.0.99 
 Dnspython
-pyromod==2.0.0
+pyromod==1.5
 flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.1
